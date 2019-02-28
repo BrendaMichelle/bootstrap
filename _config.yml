@@ -20,6 +20,8 @@ plugins:
   - jekyll-sitemap
 
 # Custom vars
+title:            Bootstrap
+description:      "The most popular HTML, CSS, and JS library in the world."
 current_version:  3.4.1
 docs_version:     3.4
 repo:             https://github.com/twbs/bootstrap
